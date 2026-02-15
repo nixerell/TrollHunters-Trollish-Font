@@ -3,11 +3,14 @@ Custom font ttf of the Trollish language from the show TrollHunters. Can be used
 
 # Add To Discord
 Download [Better Discord Here](https://github.com/BetterDiscord/BetterDiscord) and open custom CSS.
-In the css editor enter 
+In the css editor enter:
+```
 @font-face {
-  font-family: Trollish_Trollhunters-Regular; 
-  src: url(Trollish_Trollhunters-Regular.ttf); 
+font-family: Trollish_Trollhunters-Regular; 
+  src: url(https://github.com/nixerell/TrollHunters-Trollish-Font.ttf); 
 }
 
 p {
-  font-family: Trollish_Trollhunters-Regular; 
+  font-family: Trollish_Trollhunters-Regular;
+```
+and add whatever else you want to your css before clicking save.
