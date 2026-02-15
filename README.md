@@ -13,3 +13,7 @@ In the css editor enter:
 }
 ```
 and add whatever else you want to your css before clicking save.
+
+#Font Translation
+
+![Illustration12](https://github.com/user-attachments/assets/1686079e-1366-4c80-8041-829543c690a9)
